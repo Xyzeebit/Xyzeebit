@@ -32,7 +32,7 @@ My name is Donald and I am a JavaScript full-stack developer.
   <a href="mailto: gotodonald@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://xyzeebit.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/donald-sunday"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F_xdonald%3Ft%3DV9N9AKtNbGfCq29HiZstuw%26s%3D09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ <a href="https://twitter.com/_xdonald?t=N7XyOiAC-SfnbkXH8Nw_FQ&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
   
 
