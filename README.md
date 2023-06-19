@@ -4,7 +4,7 @@
  
 
 <p align='center'>
-My name is Donald and I am a JavaScript full-stack developer.
+My name is Donald and I am software developer. I like learning new things, I like making web applications, like frontend, I like backend, and I like to know where it ends. I also like football.
 </p>
 
 ## Languages & Frameworks
